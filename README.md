@@ -5,7 +5,7 @@ The program displays "hello world" in the terminal.
 I am creating this software to learn and demonstrate my ability to share repositories on github.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/G_8VUnD9P3g)
 
 # Development Environment
 
