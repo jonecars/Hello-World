@@ -14,6 +14,6 @@ I used python 3.9.7 to create the program.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+
 * [Github](https://github.com/)
 * [W3 Schools](https://www.w3schools.com/python/python_json.asp)
